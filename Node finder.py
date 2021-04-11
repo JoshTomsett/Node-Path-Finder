@@ -484,7 +484,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-#                           TO DO
-
-#   Random Nodes   ------- position verification --------
